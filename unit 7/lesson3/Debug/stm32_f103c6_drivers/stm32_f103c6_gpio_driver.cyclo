@@ -1,9 +1,0 @@
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:21:9:get_pin_position	28
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:80:6:MCAL_GPIO_INIT	9
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:139:6:MCAL_GPIO_DeINIT	6
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:185:6:MCAL_GPIO_WRITE_PIN	2
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:208:6:MCAL_GPIO_WRITE_PORT	1
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:224:9:MCAL_GPIO_READ_PIN	2
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:249:10:MCAL_GPIO_READ_PORT	1
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:265:6:MCAL_GPIO_TOGGLE	1
-../stm32_f103c6_drivers/stm32_f103c6_gpio_driver.c:283:9:MCAL_GPIO_LOCKPIN	2
