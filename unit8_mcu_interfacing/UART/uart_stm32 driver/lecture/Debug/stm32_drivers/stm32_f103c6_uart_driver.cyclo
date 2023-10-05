@@ -1,0 +1,9 @@
+../stm32_drivers/stm32_f103c6_uart_driver.c:19:6:MCAL_uart_init	9
+../stm32_drivers/stm32_f103c6_uart_driver.c:88:6:MCAL_uart_deinit	4
+../stm32_drivers/stm32_f103c6_uart_driver.c:112:6:MCAL_GPIO_uart_init	4
+../stm32_drivers/stm32_f103c6_uart_driver.c:224:6:MCAL_uart_send	3
+../stm32_drivers/stm32_f103c6_uart_driver.c:249:6:MCAL_uart_recieve	4
+../stm32_drivers/stm32_f103c6_uart_driver.c:292:6:MCAL_uart_waiting	2
+../stm32_drivers/stm32_f103c6_uart_driver.c:302:6:USART1_IRQHandler	1
+../stm32_drivers/stm32_f103c6_uart_driver.c:308:6:USART2_IRQHandler	1
+../stm32_drivers/stm32_f103c6_uart_driver.c:314:6:USART3_IRQHandler	1
