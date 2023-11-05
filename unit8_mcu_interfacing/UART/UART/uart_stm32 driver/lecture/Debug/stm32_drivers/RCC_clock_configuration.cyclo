@@ -1,0 +1,4 @@
+../stm32_drivers/RCC_clock_configuration.c:38:10:MCAL_RCC_GetSysCLK	3
+../stm32_drivers/RCC_clock_configuration.c:61:10:MCAL_RCC_GetHCLKFreq	1
+../stm32_drivers/RCC_clock_configuration.c:68:10:MCAL_RCC_GetPCLK1Freq	1
+../stm32_drivers/RCC_clock_configuration.c:74:10:MCAL_RCC_GetPCLK2Freq	1
