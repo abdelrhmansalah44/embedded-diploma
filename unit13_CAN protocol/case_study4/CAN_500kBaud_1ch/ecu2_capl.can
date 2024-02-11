@@ -1,0 +1,49 @@
+﻿/*@!Encoding:65001*/
+includes
+{
+  
+}
+
+variables
+{
+  int speed_val=0;
+  message speed_message speed_cmd;
+}
+
+on start{
+  
+ write("####Ecu2 start####");
+  
+  
+}
+
+on message ACC_message{
+  
+  if(this.ACC_ON.phys == 1)
+  {
+    if(speed_val==255)
+    {
+      speed_val =255;
+    }
+      else
+      {
+        
+        speed_val++;
+        
+      }  
+    }
+  
+  else
+  {
+    if(speed_val ==0)
+      speed_val =0;
+    else
+    speed_val--;
+    
+  }
+  
+  speed_cmd.speed_signal.phys = speed_val;
+  output(speed_cmd);
+  
+  
+}
