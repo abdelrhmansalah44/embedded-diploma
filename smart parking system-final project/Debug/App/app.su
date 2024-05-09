@@ -1,0 +1,7 @@
+../App/app.c:36:6:MCAL_init	8	static
+../App/app.c:46:6:HAL_init	8	static
+../App/app.c:60:6:parking_init	16	static
+../App/app.c:92:6:parking_entry	16	static
+../App/app.c:161:6:parking_exit	16	static
+../App/app.c:221:6:uart1_config	32	static
+../App/app.c:236:6:uart2_config	32	static

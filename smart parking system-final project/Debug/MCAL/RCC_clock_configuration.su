@@ -1,0 +1,4 @@
+../MCAL/RCC_clock_configuration.c:38:10:MCAL_RCC_GetSysCLK	4	static
+../MCAL/RCC_clock_configuration.c:61:10:MCAL_RCC_GetHCLKFreq	8	static
+../MCAL/RCC_clock_configuration.c:68:10:MCAL_RCC_GetPCLK1Freq	8	static
+../MCAL/RCC_clock_configuration.c:74:10:MCAL_RCC_GetPCLK2Freq	8	static

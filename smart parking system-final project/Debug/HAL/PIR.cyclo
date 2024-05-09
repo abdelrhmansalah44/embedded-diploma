@@ -1,0 +1,3 @@
+../HAL/PIR.c:10:6:PIR_init	1
+../HAL/PIR.c:29:12:PIR_Entergate	2
+../HAL/PIR.c:49:12:PIR_Exitgate	2

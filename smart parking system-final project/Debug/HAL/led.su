@@ -1,0 +1,5 @@
+../HAL/led.c:10:6:led_init	16	static
+../HAL/led.c:27:6:led__green_on	8	static
+../HAL/led.c:32:6:led_green_off	8	static
+../HAL/led.c:37:6:led__red_on	8	static
+../HAL/led.c:42:6:led_red_off	8	static
