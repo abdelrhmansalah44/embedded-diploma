@@ -1,0 +1,8 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c6tx.o"
+"./stm32_drivers_/RCC_clock_configuration.o"
+"./stm32_drivers_/stm32_f103c6_SPI_driver.o"
+"./stm32_drivers_/stm32_f103c6_gpio_driver.o"
+"./stm32_drivers_/stm32_f103c6_uart_driver.o"
