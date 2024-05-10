@@ -1,8 +1,0 @@
-"./HAL/I2C_EEPROM_slave.o"
-"./STM32_drivers/RCC_clock_configuration.o"
-"./STM32_drivers/stm32_f103c6_I2C_driver.o"
-"./STM32_drivers/stm32_f103c6_gpio_driver.o"
-"./Src/main.o"
-"./Src/syscalls.o"
-"./Src/sysmem.o"
-"./Startup/startup_stm32f103c6tx.o"
