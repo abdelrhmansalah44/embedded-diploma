@@ -1,0 +1,4 @@
+../Src/main.c:30:6:HardFault_Handler	1
+../Src/main.c:42:6:cpu_access_level	3
+../Src/main.c:65:6:EXTI_irq	1
+../Src/main.c:72:5:main	2

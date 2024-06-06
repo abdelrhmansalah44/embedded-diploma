@@ -1,0 +1,6 @@
+"./MCAL__/EXTI.o"
+"./MCAL__/GPIO.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
