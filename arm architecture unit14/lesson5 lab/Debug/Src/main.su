@@ -1,0 +1,7 @@
+../Src/main.c:51:6:cpu_access_level	16	static,ignoring_inline_asm
+../Src/main.c:71:6:SVC_Handler	8	static
+../Src/main.c:75:6:EXTI_irq	4	static
+../Src/main.c:92:5:taskA	24	static
+../Src/main.c:95:5:taskB	24	static
+../Src/main.c:99:6:main_OS	8	static,ignoring_inline_asm
+../Src/main.c:149:5:main	40	static

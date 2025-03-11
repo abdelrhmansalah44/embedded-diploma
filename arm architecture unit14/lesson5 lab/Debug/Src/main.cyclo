@@ -1,0 +1,7 @@
+../Src/main.c:51:6:cpu_access_level	3
+../Src/main.c:71:6:SVC_Handler	1
+../Src/main.c:75:6:EXTI_irq	3
+../Src/main.c:92:5:taskA	1
+../Src/main.c:95:5:taskB	1
+../Src/main.c:99:6:main_OS	3
+../Src/main.c:149:5:main	2
