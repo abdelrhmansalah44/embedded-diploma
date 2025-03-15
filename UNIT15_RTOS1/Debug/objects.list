@@ -1,0 +1,7 @@
+"./RTOS/MYRTOS_FIFO.o"
+"./RTOS/cortexM_os_porting.o"
+"./RTOS/schedular.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
